@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi papus, I´m a geophysical engineering student 👋
 
 <!--
 **brayan-zc/brayan-zc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
